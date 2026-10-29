@@ -1,0 +1,14 @@
+/* DashRush-specific styles */
+.dashrush-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-6);
+}
+
+.dashrush-more {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-7);
+  padding-bottom: var(--space-5);
+}
