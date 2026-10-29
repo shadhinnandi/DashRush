@@ -6,7 +6,7 @@ DashRush is a browser-based gaming platform featuring seven interactive games ac
 
 Built with React and Vite, DashRush focuses on responsive presentation, interactive gameplay, and a dedicated experience for each game.
 
-**Repository:** [github.com/shadhinnandi/DashRush](https://github.com/shadhinnandi/DashRush)
+**Live Demo:** [dashrush.vercel.app](https://dashrush.vercel.app)
 
 ---
 
